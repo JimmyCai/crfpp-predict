@@ -4,7 +4,7 @@ CRF++ Predict部分的Java实现
 ### 使用方法:
 参考src/test/com.xiaomi.ad.matrix.crfpp/CRFTest.java
 
-1. 用CRF++训练得到模型
+1.用CRF++训练得到模型
 
 命令: crf_learn -f 4 -c 4.0 -t model train.txt
 
